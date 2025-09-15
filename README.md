@@ -14,9 +14,9 @@
                                                     ▒▒▒▒▒▒  
 01001010 00101101 01010011 01100001 01101100 01100111 
 4A 2D 53 61 6C 67 
-
-  </pre>
+</pre>
 </div>
+
 <p style="font-size:1.2em; color:#00ffd5;">
 Electronics Engineering student and back-end developer.
 </p>
